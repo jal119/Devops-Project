@@ -1,1 +1,2 @@
 This my first project
+echo "please make sure you hand this"
